@@ -1,0 +1,19 @@
+body {
+  background: cornflowerblue;
+}
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width:760px) {
+	body {
+    background: rgba(3, 17, 0, 0.133);
+
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width:1200px) {
+  body {
+    background: rgba(218, 15, 18, 0.133);
+
+  }
+
+}
